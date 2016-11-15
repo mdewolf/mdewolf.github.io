@@ -1,5 +1,4 @@
 ---
 layout: site
+title: First Post
 ---
-
-# First Post
