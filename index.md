@@ -8,4 +8,4 @@ Welcome to my personal website, using Markdown!
 
 You can find my cv [here](cv) and some multimedia [here](multimedia).
 
-My first blog post can be found [at](/_posts/2016-11-15-First-Post).
+My first blog post can be found [at](blog).
