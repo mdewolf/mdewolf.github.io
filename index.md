@@ -6,4 +6,4 @@ Welcome to my personal website, using Markdown!
 
 ![This is me](images/kleine_miriam.jpg)
 
-You can find my cv at (cv.md)
+You can find my cv [here](cv).
